@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Wiki-Repositorios-Github-React/static/js/main.7d74c207.js",
-    "static/media/logo github.jpg": "/Wiki-Repositorios-Github-React/static/media/logo github.a4ed658f761efbee513f.jpg",
+    "main.js": "/Wiki-Repositorios-Github-React/static/js/main.79bc44bd.js",
+    "static/media/logo-github.jpg": "/Wiki-Repositorios-Github-React/static/media/logo-github.a4ed658f761efbee513f.jpg",
     "index.html": "/Wiki-Repositorios-Github-React/index.html",
-    "main.7d74c207.js.map": "/Wiki-Repositorios-Github-React/static/js/main.7d74c207.js.map"
+    "main.79bc44bd.js.map": "/Wiki-Repositorios-Github-React/static/js/main.79bc44bd.js.map"
   },
   "entrypoints": [
-    "static/js/main.7d74c207.js"
+    "static/js/main.79bc44bd.js"
   ]
 }
